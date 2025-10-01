@@ -1,9 +1,20 @@
+// ...existing code...
 {
     "Physical": 48,
-    "Academics": 81.2,
+    "Academics": {
+        "subskills": {
+            
+            "overall": 81.2
+        }
+    },
     "Dev-stuff": 20,
     "Graphics": 91,
-    "DSA": 7,
-    "the search":2
-
+    "DSA": {
+        "subskills": {
+            "leetcode":31,
+            "total git commits":51
+        }
+    },
+    "the search": 2
 }
+ // ...existing code...
